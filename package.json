@@ -1,0 +1,14 @@
+{
+  "name": "livestreamsite",
+  "version": "1.0.0",
+  "description": "Simple Livestreaming Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Adsnipers",
+  "license": "ISC",
+  "dependencies": {
+    "node-media-server": "^2.1.9"
+  }
+}
